@@ -1,0 +1,13 @@
+//{
+//  "ConnectionStrings": {
+//    "S3_MSTR": "Server=.\\SQLEXPRESS;Database=S3_MSTR;User Id=sa;Password=Alliex@123;TrustServerCertificate=True;",
+//    "S3_SALE": "Server=.\\SQLEXPRESS;Database=S3_SALE;User Id=sa;Password=Alliex@123;TrustServerCertificate=True;"
+//  }
+//}
+
+{
+  "ConnectionStrings": {
+    "S3_MSTR": "Server=pcpos.sharepos.vn,65432;Database=S3_MSTR;User Id=sa;Password=Alliex@123;TrustServerCertificate=True;",
+    "S3_SALE": "Server=pcpos.sharepos.vn,65432;Database=S3_SALE;User Id=sa;Password=Alliex@123;TrustServerCertificate=True;"
+  }
+}
